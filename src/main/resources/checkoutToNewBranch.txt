@@ -1,0 +1,1 @@
+git checkout new_branch_name \n git add . \n  git commit -m denden some commit text denden \n git push origin branch1
